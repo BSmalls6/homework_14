@@ -3,9 +3,8 @@ const FILES_TO_CACHE = [
     "/index.html",
     "/style.css",
     "/db.js",
-    "/index.js",
-    "../routes/api.js",
-    "../models/transaction.js"
+    "/index.js"
+    
    
   ];
   
